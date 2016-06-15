@@ -3,7 +3,7 @@
 </p>
 
 # Install
-Archlinux (AUR):
+**Archlinux (AUR)**:
 ```
 yaourt -S papirus-vlc-theme
 ```
