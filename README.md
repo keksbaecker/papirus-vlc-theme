@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-vlc-theme/master/preview.png" alt="preview"/>
+  <img src="https://github.com/keksbaecker/papirus-vlc-theme/blob/master/preview.png?raw=true" alt="preview"/>
 </p>
 
 # Install
